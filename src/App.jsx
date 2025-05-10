@@ -26,7 +26,7 @@ function App() {
               <h1 className="text-2xl font-bold text-[#9e61ff]">Triviamania</h1>
             </div>
             <p className="text-sm text-gray-400 mt-1">
-              Hecho con <span className="text-red-500">❤️</span> por Miguel Gomez
+              Hecho con <span className="text-red-500">❤️</span> por John Arias
             </p>
           </div>
           
